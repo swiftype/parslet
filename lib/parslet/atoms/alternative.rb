@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # Alternative during matching. Contains a list of parslets that is tried each
 # one in turn. Only fails if all alternatives fail. 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A simple parser generator library. Typical usage would look like this: 
 #
 #   require 'parslet'

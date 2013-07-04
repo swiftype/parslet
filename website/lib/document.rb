@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Document
   def initialize(name)
     @name = name

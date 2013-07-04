@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # This is where parslets name comes from: Small parser atoms.
 #

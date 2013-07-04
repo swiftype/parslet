@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Parslet::Atoms::Base
   
   # Packages the common idiom

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This example is heavily inspired by citrus' ip.citrus. Have a look at both
 # of these to get some choice!
 

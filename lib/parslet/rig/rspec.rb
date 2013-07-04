@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 RSpec::Matchers.define(:parse) do |input, opts|
   as = block = nil
   result = trace = nil

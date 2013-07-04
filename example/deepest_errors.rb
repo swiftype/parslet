@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 $:.unshift File.dirname(__FILE__) + "/../lib"
 
 # This example demonstrates how to do deepest error reporting, as invented 

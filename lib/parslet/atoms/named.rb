@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Names a match to influence tree construction. 
 #
 # Example: 

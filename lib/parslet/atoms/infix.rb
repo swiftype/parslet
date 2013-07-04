@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Parslet::Atoms::Infix < Parslet::Atoms::Base
   attr_reader :element, :operations
 

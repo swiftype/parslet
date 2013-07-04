@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Parslet::Atoms
   # Helper class that implements a transient cache that maps position and
   # parslet object to results. This is used for memoization in the packrat

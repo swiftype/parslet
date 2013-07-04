@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # This example demonstrates how pieces of input can be captured and matched
 # against later on. Without this, you cannot match here-documents and other

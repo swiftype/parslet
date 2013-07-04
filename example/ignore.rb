@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A small example on how to make parslet ignore parts of the parse tree. 
 
 $:.unshift File.dirname(__FILE__) + "/../lib"

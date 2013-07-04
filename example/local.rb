@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # An exploration of two ideas: 
 #   a) Constructing a whole parser inline, without the artificial class around

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Matches a string of characters. 
 #
 # Example: 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Parslet::Expression::Treetop
   class Parser < Parslet::Parser
     root(:expression)

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # The base class for all your parsers. Use as follows: 
 #

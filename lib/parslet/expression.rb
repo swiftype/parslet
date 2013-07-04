@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # Allows specifying rules as strings using the exact same grammar that treetop
 # does, minus the actions. This is on one hand a good example of a fully

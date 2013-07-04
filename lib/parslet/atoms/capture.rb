@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # Stores the result of matching an atom against input in the #captures in 
 # parse context. Doing so will allow you to pull parts of the ongoing parse

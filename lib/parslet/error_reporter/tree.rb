@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Parslet
   module ErrorReporter
     # An error reporter has two central methods, one for reporting errors at

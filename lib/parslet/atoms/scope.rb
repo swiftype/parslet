@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Starts a new scope in the parsing process. Please also see the #captures
 # method. 
 #

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Matches a special kind of regular expression that only ever matches one
 # character at a time. Useful members of this family are: <code>character
 # ranges, \\w, \\d, \\r, \\n, ...</code>

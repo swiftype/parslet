@@ -1,4 +1,4 @@
-# encoding: UTF-8
+# -*- encoding : utf-8 -*-
 
 # A small example contributed by John Mettraux (jmettraux) that demonstrates
 # working with Unicode. This only works on Ruby 1.9.

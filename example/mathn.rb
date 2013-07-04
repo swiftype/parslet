@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Demonstrates that we have a compatibility fix to mathn's weird idea of 
 # integer mathematics. 
 # This was contributed by Jonathan Hinkle (https://github.com/hynkle). Thanks!

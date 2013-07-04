@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # A demonstration of the new precedence climbing infix expression parser. 
 

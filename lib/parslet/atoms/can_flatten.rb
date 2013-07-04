@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 module Parslet::Atoms
   # A series of helper functions that have the common topic of flattening 

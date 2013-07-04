@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 def pair
   [true, "123"]
 end

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Parslet
   # Represents a cause why a parse did fail. A lot of these objects are
   # constructed - not all of the causes turn out to be failures for the whole

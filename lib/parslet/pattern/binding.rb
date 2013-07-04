@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # Used internally for representing a bind placeholder in a Parslet::Transform
 # pattern. This is the superclass for all bindings. 

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'blankslate'
 
 # Provides a context for tree transformations to run in. The context allows

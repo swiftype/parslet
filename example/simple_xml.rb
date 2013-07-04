@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A simple xml parser. It is simple in the respect as that it doesn't address
 # any of the complexities of XML. This is ruby 1.9.
 

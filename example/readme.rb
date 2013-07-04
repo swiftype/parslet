@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # The example from the readme. With this, I am making sure that the readme 
 # 'works'. Is this too messy?
 

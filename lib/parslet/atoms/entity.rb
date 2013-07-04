@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # This wraps pieces of parslet definition and gives them a name. The wrapped
 # piece is lazily evaluated and cached. This has two purposes: 
 #     

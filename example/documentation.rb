@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A small example that shows a really small parser and what happens on parser
 # errors. 
 

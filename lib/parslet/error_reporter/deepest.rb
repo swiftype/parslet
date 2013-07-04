@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Parslet
   module ErrorReporter
     # Instead of reporting the latest error that happens like {Tree} does,

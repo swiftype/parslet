@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Base class for all parslets, handles orchestration of calls and implements
 # a lot of the operator and chaining methods.
 #

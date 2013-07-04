@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A namespace for all error reporters.
 #
 module Parslet::ErrorReporter

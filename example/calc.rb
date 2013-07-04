@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A simple integer calculator to answer the question about how to do 
 # left and right associativity in parslet (PEG) once and for all. 
 

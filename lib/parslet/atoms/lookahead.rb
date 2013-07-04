@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Either positive or negative lookahead, doesn't consume its input. 
 #
 # Example: 

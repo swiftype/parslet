@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Allows exporting parslet grammars to other lingos. 
 
 require 'set'

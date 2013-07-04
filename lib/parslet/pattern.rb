@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Matches trees against expressions. Trees are formed by arrays and hashes
 # for expressing membership and sequence. The leafs of the tree are other
 # classes. 

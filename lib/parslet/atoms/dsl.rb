@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 
 # A mixin module that defines operations that can be called on any subclass
 # of Parslet::Atoms::Base. These operations make parslets atoms chainable and 

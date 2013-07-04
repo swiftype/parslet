@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Example that demonstrates how a simple erb-like parser could be constructed. 
 
 $:.unshift File.dirname(__FILE__) + "/../lib"

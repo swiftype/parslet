@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 class Parslet::Scope
   # Raised when the accessed slot has never been assigned a value. 
   #

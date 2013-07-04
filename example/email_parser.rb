@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 #!/usr/bin/env ruby
 
 # Example contributed by Hal Brodigan (postmodern). Thanks!

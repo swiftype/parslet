@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A sequence of parslets, matched from left to right. Denoted by '>>'
 #
 # Example: 

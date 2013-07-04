@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Augments all parslet atoms with an accept method that will call back 
 # to the visitor given.
 

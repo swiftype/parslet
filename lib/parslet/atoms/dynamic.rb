@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Evaluates a block at parse time. The result from the block must be a parser
 # (something which implements #apply). In the first case, the parser will then
 # be applied to the input, creating the result. 

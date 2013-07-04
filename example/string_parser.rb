@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # A more complex parser that illustrates how a compiler might be constructed.
 # The parser recognizes strings and integer literals and constructs almost a
 # useful AST from the file contents. 

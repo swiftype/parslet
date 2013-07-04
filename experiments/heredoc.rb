@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # An example that demonstrates how you would parse Ruby heredocs.
 # This is just a hack, however it toys around with some concepts that we 
 # just might use later on. 
